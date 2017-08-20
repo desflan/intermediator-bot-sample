@@ -139,6 +139,8 @@
   <ItemGroup>
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\IntermediatorBotSample - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\IntermediatorBotSample-forked.pubxml" />
+    <None Include="Properties\PublishProfiles\IntermediatorBotSampleForked - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
